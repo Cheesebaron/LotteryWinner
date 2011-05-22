@@ -1,0 +1,12 @@
+JAVA JRE must be installed before attempting to run this application.
+
+It is run from the command line as follows:
+	java -jre LotteryWinner.jar <path/to/data>
+
+Where </path/to/data> is replaced by the actual path to your data your are trying to run it on.
+
+The format of the data is:
+	name,lots
+For multiple entries delimit with line break as such:
+	John Doe,7
+	Jane Doe,42 
