@@ -1,0 +1,4 @@
+Hej hest,1
+Jens ko,2
+Kurt mogensen,4
+Ole aaa,2
